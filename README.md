@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="  https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47hdoavuy5im7n368d91jvkyy6fodism76z5tachob&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" />
 
 ###
 
@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/theambarofficial/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href=" https://discordapp.com/users/3942/" target="_blank">
+  <a href="https://discordapp.com/users/3942/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/coderambar/" target="_blank">
@@ -44,5 +44,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/CoderAmbar/CoderAmbar/output/snake.svg" alt="Snake animation" />
-
-###
