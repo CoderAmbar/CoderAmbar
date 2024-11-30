@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CoderAmbar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderAmbar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true%22%20height=%22150%22%20alt=%22languages%20graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderAmbar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=flase%22%20height=%22150%22%20alt=%22languages%20graph"  />
 </div>
 
 ###
