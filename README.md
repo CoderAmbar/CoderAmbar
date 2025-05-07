@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Ambar!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!; I'm+a+1st+year+CSE+student+at+JIIT+Noida ; Aspiring+Engineer+%7C+Code+%7C+Build+%7C+Dream "/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Aspiring+Engineer+%7C+Code+%7C+Build+%7C+Dream;"/>
 </p>
 
 ---
