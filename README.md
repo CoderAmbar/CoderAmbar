@@ -50,7 +50,6 @@
 
 <br clear="both">
 
-### 🐍 Snake Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CoderAmbar/CoderAmbar/output/snake.svg" alt="Snake animation" />
