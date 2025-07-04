@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Engineer+%7C+Code+%7C+Build+%7C+Dream;"/>
 </p>
 
----
+--- 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CoderAmbar&show_icons=true&cache_seconds=1800&theme=codeSTACKr&hide_border=true" height="150" alt="Ambar's GitHub Stats"/>
