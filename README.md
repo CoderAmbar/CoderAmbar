@@ -48,9 +48,5 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAmbar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/CoderAmbar/CoderAmbar/output/snake.svg" alt="Snake animation" />
 </p>
